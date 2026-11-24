@@ -58,12 +58,6 @@
   <img src="https://skillicons.dev/icons?i=py,js,html,css,react,nextjs,git,github,aws&theme=dark" />
 </p>
 
-## 📊 Mis estadísticas mágicas
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dracula&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dracula&hide_border=true" />
-</p>
 
 ## 🦉 Envíame una lechuza
 
